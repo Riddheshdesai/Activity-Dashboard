@@ -1,0 +1,1 @@
+export const ACTIVITY_DASHBOARD_URL = import.meta.env.ACTIVITY_DASHBOARD_URL || 'http://localhost:3000';

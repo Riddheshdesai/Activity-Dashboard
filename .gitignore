@@ -1,0 +1,22 @@
+# .gitignore for a project with frontend and backend
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Build output (Frontend)
+build/
+dist/
+.next/
+
+# Logs (Backend)
+*.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# VS Code
+.vscode/
