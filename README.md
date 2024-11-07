@@ -103,7 +103,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 3. Running the Server :
 
    ```bash
-   npm run server.js
+   node server.js
    ```
 
 Your application will be available at `http://localhost:5173`.
