@@ -1,6 +1,6 @@
 # Customer Activity Dashboard Prototype
 
-![Customer Activity Dashboard](https://github.com/YourUsername/activity-dashboard-hotel/blob/main/src/assets/activity-dashboard.jpg)
+![Customer Activity Dashboard](https://github.com/Riddheshdesai/Activity-Dashboard/blob/develop/Activity-Dashboard-Demo.jpg)
 
 ## Overview
 
